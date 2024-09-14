@@ -1,0 +1,5 @@
+There database table name MyNumbers in this question solve summary concept:
+
+1. num call variable that there multiple number and filtering each of numbers.
+Duplicates value added removeing and other numbers show down.
+2 find filtering number without Duplicates show there maximum number. 
